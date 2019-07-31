@@ -4,11 +4,13 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 
 ### Planning/ Execution:
 1. Overall layout
+2. Features Section
 
 ### Advanced CSS and Sass Concepts used:
 1. CSS Grid
 2. CSS Grid Techniques
 3. Row/Column Track Sizes
+4. Responsive Components without Media Queries
 
 ###  Notes
 CSS Grid:
