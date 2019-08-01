@@ -11,6 +11,7 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 2. CSS Grid Techniques
 3. Row/Column Track Sizes
 4. Responsive Components without Media Queries
+5. Nested Grids
 
 ###  Notes
 CSS Grid:
