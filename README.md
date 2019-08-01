@@ -12,6 +12,8 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 3. Row/Column Track Sizes
 4. Responsive Components without Media Queries
 5. Nested Grids
+6. Images in Grid Images
+7. FlexBox
 
 ###  Notes
 CSS Grid:
@@ -93,6 +95,12 @@ Auto-fit creates the number of tracks needed to fit the container while collapsi
 ```
 grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 ```
+
+Images in Grid:
+- images have an aspect ratio to them already
+- they keep their aspect ratio in a grid
+- use align-items: center on parent
+
 
 ### Final Product:
 
