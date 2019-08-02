@@ -5,6 +5,8 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 ### Planning/ Execution:
 1. Overall layout
 2. Features Section
+3. Story Section
+4. Homes Section
 
 ### Advanced CSS and Sass Concepts used:
 1. CSS Grid
@@ -13,7 +15,8 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 4. Responsive Components without Media Queries
 5. Nested Grids
 6. Images in Grid Images
-7. FlexBox
+7. FlexBox in Grid
+8. Grid with overlapping items
 
 ###  Notes
 CSS Grid:
