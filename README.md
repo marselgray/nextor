@@ -9,6 +9,7 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 4. Homes Section
 5. Gallery Section
 6. Footer Section
+7. SideBar Section
 
 ### Advanced CSS and Sass Concepts used:
 1. CSS Grid
