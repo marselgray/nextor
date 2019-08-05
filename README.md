@@ -10,6 +10,7 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 5. Gallery Section
 6. Footer Section
 7. SideBar Section
+8. Header Section
 
 ### Advanced CSS and Sass Concepts used:
 1. CSS Grid
@@ -21,6 +22,7 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 7. FlexBox in Grid
 8. Grid with overlapping items
 7. Use Object-Fit with images for grid-items
+9. Use psuedo elements in grid items
 
 ###  Notes
 CSS Grid:
