@@ -114,7 +114,7 @@ Images in Grid:
 
 
 ### Final Product: 
-
+ 
 **Desktop**
 
 ![](project-large.jpg)
