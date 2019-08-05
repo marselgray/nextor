@@ -117,11 +117,11 @@ Images in Grid:
 
 **Desktop**
 
-<!-- ![](project-large.jpg) -->
+![](project-large.jpg)
 
 **Mobile**
 
-<!-- ![](project-small.jpg) -->
+![](project-small.jpg)
 
 #### Future Developers:
 `npm install`
