@@ -113,7 +113,7 @@ Images in Grid:
 - use align-items: center on parent
 
 
-### Final Product:
+### Final Product: 
 
 **Desktop**
 
