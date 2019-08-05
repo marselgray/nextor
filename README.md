@@ -11,6 +11,8 @@ This is an advanced CSS and Sass project that uses CSS Grid.
 6. Footer Section
 7. SideBar Section
 8. Header Section
+9. Realtor Section
+10. Media Queries
 
 ### Advanced CSS and Sass Concepts used:
 1. CSS Grid
